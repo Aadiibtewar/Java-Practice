@@ -1,0 +1,575 @@
+📘 PERCENTAGE – FULL NOTES
+1️⃣ What is Percentage?
+
+Percentage means “per hundred”.
+
+1
+%
+=
+1
+100
+1%=
+100
+1
+	​
+
+
+Example:
+
+25% = 25/100 = 0.25
+
+150% = 1.5
+
+7% = 0.07
+
+2️⃣ Conversions
+Fraction → Percentage
+
+Multiply by 100
+
+3
+4
+=
+75
+%
+4
+3
+	​
+
+=75%
+Percentage → Fraction
+
+Divide by 100
+
+20
+%
+=
+20
+100
+=
+1
+5
+20%=
+100
+20
+	​
+
+=
+5
+1
+	​
+
+Percentage → Decimal
+
+Divide by 100
+
+35
+%
+=
+0.35
+35%=0.35
+3️⃣ Basic Formula
+Percentage
+=
+Part
+Whole
+×
+100
+Percentage=
+Whole
+Part
+	​
+
+×100
+4️⃣ Increase and Decrease
+Increase
+New Value
+=
+Original
+×
+(
+1
++
+𝑥
+100
+)
+New Value=Original×(1+
+100
+x
+	​
+
+)
+Decrease
+New Value
+=
+Original
+×
+(
+1
+−
+𝑥
+100
+)
+New Value=Original×(1−
+100
+x
+	​
+
+)
+5️⃣ Successive Percentage Change
+Net Change
+=
+𝑎
++
+𝑏
++
+𝑎
+𝑏
+100
+Net Change=a+b+
+100
+ab
+	​
+
+
+Example:
+10% increase then 20% increase
+
+=
+10
++
+20
++
+10
+×
+20
+100
+=
+32
+%
+=10+20+
+100
+10×20
+	​
+
+=32%
+6️⃣ Percentage Change Formula
+Percentage Change
+=
+Change
+Original
+×
+100
+Percentage Change=
+Original
+Change
+	​
+
+×100
+7️⃣ Profit and Loss
+Profit%
+=
+Profit
+𝐶
+𝑃
+×
+100
+Profit%=
+CP
+Profit
+	​
+
+×100
+Loss%
+=
+Loss
+𝐶
+𝑃
+×
+100
+Loss%=
+CP
+Loss
+	​
+
+×100
+8️⃣ Discount
+Discount%
+=
+Discount
+Marked Price
+×
+100
+Discount%=
+Marked Price
+Discount
+	​
+
+×100
+9️⃣ Population Growth
+
+Same as compound increase:
+
+𝑃
+=
+𝑃
+0
+(
+1
++
+𝑟
+100
+)
+𝑡
+P=P
+0
+	​
+
+(1+
+100
+r
+	​
+
+)
+t
+🔟 Reverse Percentage
+
+If price after 20% increase = 120
+Original price = 120 / 1.2 = 100
+
+🧠 PRACTICE QUESTIONS
+🔹 TYPE 1: Basic Percentage (15 Questions)
+
+What is 25% of 800?
+
+What is 18% of 450?
+
+35 is what percent of 140?
+
+120 is what percent of 300?
+
+Find 12.5% of 640.
+
+What is 7% of 2,000?
+
+84 is what percent of 120?
+
+What is 90% of 450?
+
+15 is what percent of 60?
+
+Find 22% of 950.
+
+48 is what percent of 64?
+
+What is 2% of 7,500?
+
+75 is what percent of 500?
+
+Find 16% of 1,250.
+
+360 is what percent of 600?
+
+🔹 TYPE 2: Increase & Decrease (15 Questions)
+
+Salary increases by 20% from 10,000. Find new salary.
+
+Price decreases by 15% from 2,000. Find new price.
+
+A number increases by 25%. If original was 400, find new value.
+
+A population of 5,000 increases by 10%.
+
+800 decreases by 12%.
+
+A car price 5,00,000 increases by 5%.
+
+2,400 decreases by 20%.
+
+6,000 increases by 8%.
+
+900 decreases by 30%.
+
+A shop reduces price by 18% from 3,000.
+
+1,200 increases by 40%.
+
+7,500 decreases by 6%.
+
+10,000 increases by 50%.
+
+950 decreases by 5%.
+
+25,000 increases by 12%.
+
+🔹 TYPE 3: Successive Change (15 Questions)
+
+Increase 10% then 20% on 1,000.
+
+Decrease 15% then 10% on 5,000.
+
+Increase 25% then decrease 20% on 800.
+
+Decrease 30% then increase 10% on 2,000.
+
+Increase 5% then 5% on 10,000.
+
+Decrease 12% then 8% on 4,000.
+
+Increase 40% then 10% on 600.
+
+Decrease 25% then 25% on 1,200.
+
+Increase 50% then decrease 20% on 500.
+
+Decrease 10% twice on 1,000.
+
+Increase 15% twice on 800.
+
+Decrease 5% thrice on 10,000.
+
+Increase 8% then decrease 8% on 2,000.
+
+Increase 12% then 18% on 900.
+
+Decrease 20% then increase 25% on 3,000.
+
+🔹 TYPE 4: Profit & Loss (15 Questions)
+
+CP = 500, SP = 600. Find profit %.
+
+CP = 800, SP = 720. Find loss %.
+
+Profit = 150 on CP 750.
+
+Loss = 200 on CP 1,000.
+
+CP = 2,000, Profit 20%. Find SP.
+
+CP = 5,000, Loss 10%. Find SP.
+
+SP = 1,200, Profit 25%. Find CP.
+
+SP = 900, Loss 10%. Find CP.
+
+A shopkeeper marks 1,000 and sells at 10% discount.
+
+CP 4,000, SP 4,600.
+
+CP 1,500, SP 1,350.
+
+CP 2,500, Profit 12%.
+
+CP 3,000, Loss 15%.
+
+SP 2,200, Profit 10%.
+
+SP 4,500, Loss 10%.
+
+🔹 TYPE 5: Population & Compound Growth (15 Questions)
+
+Population 10,000 grows 5% yearly for 2 years.
+
+Population 5,000 grows 10% yearly for 3 years.
+
+Value 20,000 grows 8% for 2 years.
+
+50,000 decreases 5% yearly for 2 years.
+
+1,000 grows 20% yearly for 2 years.
+
+25,000 grows 6% for 3 years.
+
+4,000 decreases 10% yearly for 2 years.
+
+15,000 grows 12% for 2 years.
+
+8,000 grows 15% yearly for 3 years.
+
+6,000 decreases 8% yearly for 2 years.
+
+9,000 grows 5% yearly for 4 years.
+
+2,500 grows 25% yearly for 2 years.
+
+12,000 decreases 12% yearly for 2 years.
+
+7,000 grows 7% yearly for 3 years.
+
+30,000 grows 9% yearly for 2 years.
+
+If you want next:
+
+✅ Full answer key
+
+🧠 Shortcut tricks for fast calculation
+
+🔥 Hard level CAT/Bank exam questions
+
+🎯 Percentage mixed test (50 questions)
+
+Tell me your goal (school / competitive exam / aptitude round).
+
+give answer to cross check
+
+Perfect 👍 Below are the answers only (final values) so you can quickly cross-check.
+
+✅ TYPE 1: Basic Percentage – Answers
+
+200
+
+81
+
+25%
+
+40%
+
+80
+
+140
+
+70%
+
+405
+
+25%
+
+209
+
+75%
+
+150
+
+15%
+
+200
+
+60%
+
+✅ TYPE 2: Increase & Decrease – Answers
+
+12,000
+
+1,700
+
+500
+
+5,500
+
+704
+
+5,25,000
+
+1,920
+
+6,480
+
+630
+
+2,460
+
+1,680
+
+7,050
+
+15,000
+
+902.5
+
+28,000
+
+✅ TYPE 3: Successive Change – Answers
+
+1,320
+
+3,825
+
+800
+
+1,540
+
+11,025
+
+3,238.40
+
+924
+
+675
+
+600
+
+810
+
+1,058
+
+8,573.75
+
+1,987.20
+
+1,188.24
+
+3,000
+
+✅ TYPE 4: Profit & Loss – Answers
+
+20% profit
+
+10% loss
+
+20% profit
+
+20% loss
+
+2,400
+
+4,500
+
+960
+
+1,000
+
+900
+
+15% profit
+
+10% loss
+
+2,800
+
+2,550
+
+2,000
+
+5,000
+
+✅ TYPE 5: Population & Compound Growth – Answers (Approx.)
+
+11,025
+
+6,655
+
+23,328
+
+45,125
+
+1,440
+
+29,775.40
+
+3,240
+
+18,816
+
+12,167
+
+5,078.40
+
+10,938
+
+3,906.25
+
+9,292.80
+
+8,575.84
+
+35,643

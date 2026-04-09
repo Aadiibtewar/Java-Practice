@@ -1,0 +1,271 @@
+1️⃣ Variables & Data Types
+Basic
+
+Declare variables of all primitive types and print them.
+
+Convert an int to double and vice versa.
+
+Swap two numbers without using a third variable.
+
+Calculate area of a circle using double.
+
+Convert temperature (Celsius ↔ Fahrenheit).
+
+Intermediate
+
+Create a program to calculate simple and compound interest.
+
+Check overflow behavior of int.
+
+Use type casting in arithmetic expressions.
+
+Convert seconds into hours, minutes, seconds.
+
+Build a basic currency converter.
+
+2️⃣ Operators & Control Statements
+Basic
+
+Check if a number is even or odd.
+
+Find the largest of three numbers.
+
+Print numbers 1–100 using loop.
+
+Calculate factorial using loop.
+
+Generate multiplication table.
+
+Intermediate
+
+Check if a number is prime.
+
+Reverse a number.
+
+Check palindrome number.
+
+Print Fibonacci series.
+
+Create a basic calculator using switch.
+
+3️⃣ Arrays
+Basic
+
+Find sum and average of array.
+
+Find largest and smallest element.
+
+Reverse an array.
+
+Count even and odd numbers.
+
+Search an element (linear search).
+
+Intermediate
+
+Sort array (Bubble sort).
+
+Remove duplicates from array.
+
+Merge two arrays.
+
+Find second largest element.
+
+Rotate array by N positions.
+
+4️⃣ Strings
+Basic
+
+Reverse a string.
+
+Check palindrome string.
+
+Count vowels and consonants.
+
+Convert lowercase to uppercase.
+
+Count words in sentence.
+
+Intermediate
+
+Remove duplicate characters.
+
+Check anagram.
+
+Find first non-repeating character.
+
+Compress string (aaabb → a3b2).
+
+Implement custom substring() method.
+
+5️⃣ Methods
+Basic
+
+Create method to add two numbers.
+
+Create method for factorial.
+
+Create method to check prime.
+
+Demonstrate method overloading.
+
+Pass array to method.
+
+Intermediate
+
+Recursive Fibonacci.
+
+Recursive binary search.
+
+Method returning object.
+
+Variable-length arguments method.
+
+Static vs instance method demo.
+
+6️⃣ Object-Oriented Programming (OOP)
+Basic
+
+Create Student class with fields and methods.
+
+Demonstrate constructor.
+
+Constructor overloading.
+
+Use this keyword.
+
+Encapsulation using getters/setters.
+
+Intermediate
+
+Inheritance example (Animal → Dog).
+
+Method overriding.
+
+Use super keyword.
+
+Polymorphism with runtime binding.
+
+Create abstract class and implement it.
+
+7️⃣ Interfaces & Advanced OOP
+Basic
+
+Create simple interface and implement it.
+
+Multiple interface implementation.
+
+Default method in interface.
+
+Functional interface example.
+
+Use @Override.
+
+Advanced
+
+Lambda expression example.
+
+Create custom exception.
+
+Demonstrate instanceof.
+
+Implement Comparable interface.
+
+Implement Cloneable interface.
+
+8️⃣ Collections Framework
+Basic
+
+Use ArrayList.
+
+Use LinkedList.
+
+Iterate using Iterator.
+
+Use HashSet.
+
+Use HashMap.
+
+Intermediate
+
+Sort list using Collections.sort().
+
+Count frequency of elements.
+
+Remove duplicates using Set.
+
+Convert List to Set.
+
+Custom object in HashMap.
+
+9️⃣ File Handling
+Basic
+
+Create file.
+
+Write to file.
+
+Read from file.
+
+Append data.
+
+Count lines in file.
+
+Intermediate
+
+Copy file.
+
+Search word in file.
+
+Serialize object.
+
+Deserialize object.
+
+CSV file reader.
+
+🔟 Multithreading & Concurrency
+Basic
+
+Create thread using Thread class.
+
+Create thread using Runnable.
+
+Use sleep().
+
+Join threads.
+
+Synchronization example.
+
+Advanced
+
+Producer-consumer problem.
+
+Thread pool using ExecutorService.
+
+Callable and Future.
+
+Deadlock example.
+
+Use ConcurrentHashMap.
+
+🚀 Bonus Advanced Challenges
+
+Build mini Banking System.
+
+Library Management System.
+
+Online Quiz App.
+
+REST API using Spring Boot.
+
+Multithreaded chat server.
+
+LRU Cache implementation.
+
+Custom HashMap implementation.
+
+Parking Lot System design.
+
+Elevator System design.
+
+URL Shortener.
