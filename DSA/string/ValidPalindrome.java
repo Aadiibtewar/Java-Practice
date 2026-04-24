@@ -4,7 +4,7 @@ public class ValidPalindrome {
     public static void main(String[] args) {
         // String s = "A man, a plan, a canal : Panama";   //true
         // String s = "race a car";        //false
-        String s = "   ";
+        String s = "   ";   // true
         System.out.println(isValidPalindrome(s));
        
     }
